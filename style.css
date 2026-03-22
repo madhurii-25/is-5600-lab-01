@@ -119,3 +119,9 @@ main {
 .social span {
    margin-right: 18px;
 }
+/*  HOVER  */
+
+.card:hover {
+   transform: translateY(-6px);
+   transition: 0.3s;
+}
